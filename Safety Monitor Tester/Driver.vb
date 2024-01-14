@@ -61,8 +61,8 @@ Public Class SafetyMonitor
     '
     ' Driver ID and descriptive string that shows in the Chooser
     '
-    Friend Shared driverID As String = "ASCOM.TSOSMTester.SafetyMonitor"
-    Private Shared driverDescription As String = "TSOSMTester SafetyMonitor"
+    Friend Shared driverID As String = "ASCOM.Testing.SafetyMonitor"
+    Private Shared driverDescription As String = "Safety Monitor Tester"
 
     Friend Shared filePathProfileName As String = "File Path" 'Constants used for Profile persistence
     Friend Shared traceStateProfileName As String = "Trace Level"
