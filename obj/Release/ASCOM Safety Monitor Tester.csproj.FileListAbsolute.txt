@@ -1,0 +1,28 @@
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.TSO.exe.config
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.TSO.exe
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.TSO.pdb
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Astrometry.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Attributes.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Controls.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.DeviceInterfaces.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Exceptions.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.SettingsProvider.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Utilities.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Utilities.Video.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Internal.Extensions.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Astrometry.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Attributes.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Controls.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.DeviceInterfaces.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Exceptions.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.SettingsProvider.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Utilities.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Release\ASCOM.Internal.Extensions.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM Safety Monitor Tester.csproj.AssemblyReference.cache
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM.LocalServer.FrmMain.resources
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM.TSO.SafetyMonitor.SetupDialogForm.resources
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM Safety Monitor Tester.csproj.GenerateResource.cache
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM Safety Monitor Tester.csproj.CoreCompileInputs.cache
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM Safety Monitor Tester.csproj.CopyComplete
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM.TSO.exe
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Release\ASCOM.TSO.pdb

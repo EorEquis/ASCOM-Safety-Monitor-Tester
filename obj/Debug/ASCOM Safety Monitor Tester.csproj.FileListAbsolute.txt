@@ -1,0 +1,28 @@
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.TSO.exe.config
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.TSO.exe
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.TSO.pdb
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Astrometry.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Attributes.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Controls.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.DeviceInterfaces.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Exceptions.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.SettingsProvider.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Utilities.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Utilities.Video.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Internal.Extensions.dll
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Astrometry.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Attributes.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Controls.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.DeviceInterfaces.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Exceptions.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.SettingsProvider.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Utilities.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\bin\Debug\ASCOM.Internal.Extensions.xml
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM Safety Monitor Tester.csproj.AssemblyReference.cache
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM.LocalServer.FrmMain.resources
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM.TSO.SafetyMonitor.SetupDialogForm.resources
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM Safety Monitor Tester.csproj.GenerateResource.cache
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM Safety Monitor Tester.csproj.CoreCompileInputs.cache
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM Safety Monitor Tester.csproj.CopyComplete
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM.TSO.exe
+G:\Dev\Git\ASCOM Safety Monitor Tester\obj\Debug\ASCOM.TSO.pdb
