@@ -2,8 +2,6 @@
 
 A simple little ASCOM Safety Monitor that only looks for the presence of a text file to determine Safe or Unsafe.
 
-It currently does not work with NINA 3.  I'll get around to writing a proper ASCOM server version some day.
-
 ---
 
 ## Purpose
